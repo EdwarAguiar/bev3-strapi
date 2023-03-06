@@ -17,6 +17,8 @@
     "@strapi/strapi": "4.7.1",
     "assert": "^2.0.0",
     "better-sqlite3": "8.0.1",
+    "pg": "^8.9.0",
+    "pg-connection-string": "^2.5.0",
     "util": "^0.12.5"
   },
   "author": {
